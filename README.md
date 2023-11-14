@@ -21,9 +21,19 @@ watch pocket than the original.
 I printed in PETG because it's light and durable. Set up your print to pause when it reaches the layer just before it covers the holes. You'll need two pauses for the two sets
 of magnets. Ctrl-click on layers in PrusaSlicer.
 
-![Printing timelapse](Alpine Musicsafe case_0.6n_0.3mm_PETG_MK3S_51m_20231114071712.mp4)
+https://github.com/shermozle/alpine_musicsafe_case/assets/1082196/05ce2eff-f4f7-4b7a-b340-324c9776435a
 
 A drop of super glue inside the holes stops the magnets from springing out and attaching to the PINDA sensor or heatblock. I found this out through trial and error.
 
 Post processing was scraping off rough bits, sanding edges especially the flat pieces so they mate together nicely, and
 scraping out the alignment holes a bit because they were a bit tight.
+
+## Design
+
+![Design in Tinkercad](https://github.com/shermozle/alpine_musicsafe_case/assets/1082196/41f2a7e9-293b-46a6-8f0c-1272cc5993f9)
+
+I designed this project in [Tinkercad](https://www.tinkercad.com/) and it really highlights the limitations of the tool. It's great for simple stuff but as soon as
+you get complex, it becomes hard to work with. The hidden cavities in particular are impossible to select without moving the containing object back and forth. OpenSCAD
+or Fusion for my next project I think.
+
+Design is available [here](https://www.tinkercad.com/things/3DKtwMKmj16-alpine-musicsafe-case)https://www.tinkercad.com/things/3DKtwMKmj16-alpine-musicsafe-case.
