@@ -21,8 +21,6 @@ watch pocket than the original.
 I printed in PETG because it's light and durable. Set up your print to pause when it reaches the layer just before it covers the holes. You'll need two pauses for the two sets
 of magnets. Ctrl-click on layers in PrusaSlicer.
 
-https://github.com/shermozle/alpine_musicsafe_case/assets/1082196/05ce2eff-f4f7-4b7a-b340-324c9776435a
-
 A drop of super glue inside the holes stops the magnets from springing out and attaching to the PINDA sensor or heatblock. I found this out through trial and error.
 
 Post processing was scraping off rough bits, sanding edges especially the flat pieces so they mate together nicely, and
